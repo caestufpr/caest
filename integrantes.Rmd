@@ -1,0 +1,91 @@
+<body>
+<div>
+<h2>Membros</h2>           
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Nome</th>
+<th>Cargo</th>
+<th>Email</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RAFAEL BUTTINI SALVIATO</td>
+<td>Presidente</td>
+<td>rbsalviato@gmail.com</td>
+</tr>
+<tr>
+<td>PEDRO HENRIQUE PAVAN GONÇALVES</td>
+<td>Vice-presidente</td>
+<td>ph_pavan@hotmail.com</td>
+</tr>
+<tr>
+<td>LUCKA KIOHEI NEVES MAEKAWA</td>
+<td>Secretário Geral</td>
+<td>maekawa.lucka@gmail.com</td>
+</tr>
+<tr>
+<td>JUNOT CELSO DENCHUK</td>
+<td>Tesoureiro Geral</td>
+<td>junotdenchuk@gmail.com</td>
+</tr>
+<tr>
+<td>CAROLINE ANANIAS FERRONATO</td>
+<td>Secretário</td>
+<td>carolineaferronato@gmail.com</td>
+</tr>
+<tr>
+<td>EDUARDO YUDDI SATO</td>
+<td>Tesoureiro</td>
+<td>edu.sato@outlook.com</td>
+</tr>
+<tr>
+<td>VANESSA GAEBLER</td>
+<td>Diretoria de Ensino e Pesquisa</td>
+<td>vanessagaebler@gmail.com</td>
+</tr>
+<tr>
+<td>WAGNER CASSIANO CAVALARI DA SILVA</td>
+<td>Diretoria de Cultura</td>
+<td>wagnerccdasilva@outlook.com</td>
+</tr>
+<tr>
+<td>PAULO AUGUSTO GROSSO DE SOUZA</td>
+<td>Diretoria de Cultura</td>
+<td>pauloaugusto.grosso@gmail.com</td>
+</tr>
+<tr>
+<td>IGOR HOLTRUP HORROCKS</td>
+<td>Diretoria de Imprensa e divulgação</td>
+<td>igorhorrocks@gmail.com</td>
+</tr>
+<tr>
+<td>BIANCA SALLES TRENTIN</td>
+<td>Diretoria de patrimônio</td>
+<td>biancatrent@live.com</td>
+</tr>
+<tr>
+<td>LUCIANA HELENA KOWALSKI</td>
+<td>Diretoria Social</td>
+<td>lucianahelenak@gmail.com</td>
+</tr>
+<tr>
+<td>GUILHERME HATHY</td>
+<td>Diretoria de Acompanhamento Jurídico e Acadêmico</td>
+<td>guilhermehathy@hotmail.com</td>
+</tr>
+<tr>
+<td>GEAN PAULO SOARES MACHADO</td>
+<td>Diretoria de Acompanhamento Jurídico e Acadêmico</td>
+<td>gean@ufpr.br</td>
+</tr>
+<tr>
+<td>LUCAS DINIZ</td>
+<td>Diretoria esportiva</td>
+<td>lucas_diniz21@hotmail.com</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>

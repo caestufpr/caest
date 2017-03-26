@@ -1,0 +1,28 @@
+name: "CAEST"
+output_dir: "."
+output:
+  html_document:
+    theme: journal
+    css: style_.css   
+    include:
+      before_body: logo.html
+
+navbar:
+  left:
+    - text: Home
+      href: index.html
+    - text: Links Úteis
+      href: links.html
+    - text: Noticias
+      href: noticias.html
+    - text: Portal Transparência
+      href: portaltransparencia.html
+    - text: Integrantes
+      href: integrantes.html
+    - text: Contato
+      href: contato.html
+  right:
+
+    - text: Facebook
+      icon: fa-facebook fa-lg
+      href: https://www.facebook.com/academicosEstatistica

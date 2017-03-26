@@ -1,0 +1,39 @@
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Nome</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Departamento de Estatística - UFPR</td>
+<td>http://www.est.ufpr.br/</td>
+</tr>
+
+<tr>
+<td>Curso de Estatística - UFPR</td>
+<td>http://www.coordest.ufpr.br/</td>
+</tr>
+
+<tr>
+<td>PET – Estatística UFPR</td>
+<td>http://www.pet.est.ufpr.br/</td>
+</tr>
+
+<tr>
+<td>Laboratório de Estatística Aplicada (LEA)</td>
+<td>http://www.lea.ufpr.br/</td>
+</tr>
+
+<tr>
+<td>Laboratório de Estatística e Geoinformação (LEG)</td>
+<td>http://leg.ufpr.br/</td>
+</tr>
+
+<tr>
+<td>Setor de Ciências Exatas</td>
+<td>http://www.exatas.ufpr.br/</td>
+</tr>
+</tbody>
+</table>

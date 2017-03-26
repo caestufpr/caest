@@ -1,0 +1,53 @@
+
+.back-image {
+    background-color:#008B8B;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    color: #8B0000;
+  
+}
+
+/* Barra sem estar selecionada */ 
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+  
+}
+
+
+.btn-default{
+    color: #FFFFFF;
+  
+}
+/* Barra de navegação */
+.navbar {
+    color: #FFFFFF;
+}
+
+.navbar-default {
+    /*  Barra normal */
+    color: #FFFFFF;
+    background-color: #06217C;
+    border-color: #06217C;
+}
+
+
+/* Barra com mouse */ 
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #06217C;
+    background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #06217C;
+    background-color: #FFFFFF;
+}
+
+.container-fluid{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 1px;
+    padding-right: 1px;
+}
