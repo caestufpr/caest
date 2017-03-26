@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td>CAROLINE ANANIAS FERRONATO</td>
-<td>Secretário</td>
+<td>Secretária</td>
 <td>carolineaferronato@gmail.com</td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@
 <td>edu.sato@outlook.com</td>
 </tr>
 <tr>
-<td>VANESSA GAEBLER</td>
+<td>VANESSA BUGHAY GAEBLER</td>
 <td>Diretoria de Ensino e Pesquisa</td>
 <td>vanessagaebler@gmail.com</td>
 </tr>
